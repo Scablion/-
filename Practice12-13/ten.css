@@ -1,0 +1,23 @@
+table.jewel {
+
+    width: 100%; /* Ширина таблицы */
+    
+    border: 1px solid #666; /* Рамка вокруг таблицы */
+    
+    }
+    
+    th {
+    
+    background: #009383; /* Цвет фона */
+    
+    color: #fff; /* веT TексTа */
+    
+    text-align: left; /* выравнивание по левому крак */
+    
+    }
+    
+    tr.odd {
+    
+    background: #ebd3d7; /* вет þона */
+    
+    }
